@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'eole:keycloak-oauth',
+  name: 'eoleteam:keycloak-oauth',
   summary: 'Keycloak OAuth flow',
   version: '2.2.0',
   git: 'https://github.com/eole/meteor-accounts-auth0.git',
