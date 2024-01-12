@@ -1,12 +1,12 @@
 Package.describe({
   name: 'eoleteam:keycloak-oauth',
   summary: 'Keycloak OAuth flow',
-  version: '2.2.0',
-  git: 'https://github.com/eole/meteor-accounts-auth0.git',
+  version: '2.3.0',
+  git: 'https://github.com/eole/meteor-keycloak-oauth.git',
 });
 
 Npm.depends({
-  'keycloak-connect': '4.5.0',
+  'keycloak-connect': '23.0.4',
 });
 
 Package.onUse(function (api) {
